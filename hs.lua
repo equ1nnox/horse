@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://[Log in to view URL]'))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/equ1nnox/horse/0e64bfa22b81c2e6e39b46498f0909757fb3a648/hs.lua"))()
 
 local Window = Rayfield:CreateWindow({
    Name = "horse life script",
